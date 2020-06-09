@@ -1,0 +1,58 @@
+h2 a{
+    color: #0017c2;
+    font-family: 'Bentham', serif;
+    text-decoration-line: underline;
+}
+
+h3 a{
+    font-size: 12px;
+}
+
+body {
+    padding-left: 10px;
+    background-image: url(../img/paper_1.png);
+}
+
+.page-header {
+    background-color: #c2004a;
+    margin-top: 0;
+    padding: 1px 0px 1px 5px;
+    font-family: 'Bentham', serif;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #bbbfbf;
+    text-decoration-line: underline;
+    font-family: 'Bentham', serif;
+    font-size: 36pt;
+}
+
+.content {
+    margin-left: 40px;
+    font-family: 'Bentham', serif;
+    font-size: 16pt;
+    color: #000000;
+}
+
+.date {
+    color: #04782f;
+}
+
+.post-form textarea, .post-form input {
+    width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #bbbfbf;
+    float: right;
+    font-size: 16pt;
+    margin-right: 10px;
+}
+
+.post {
+    margin-bottom: 30px;
+}
+
+.button {
+  font-size: 32px;
+}
