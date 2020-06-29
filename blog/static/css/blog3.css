@@ -1,0 +1,27 @@
+body {
+    padding-left: 500px;
+    background-image: url(../img/paper_1.png);
+}
+
+.page-header {
+    background-color: #0017c2;
+    margin-top: 0;
+    padding: 1px 0px 1px 5px;
+    font-family: 'Bentham', serif;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #bbbfbf;
+    
+    font-family: 'Bentham', serif;
+    font-size: 36pt;
+}
+
+.content {
+    margin-left: 40px;
+    font-family: 'Bentham', serif;
+    font-size: 10pt;
+    color: #000000;
+}
+
+
